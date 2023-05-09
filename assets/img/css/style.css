@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+header {
+    background-image: url(../bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+    padding: 100px;
+}
+
+nav {
+    background-color: #000f08;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+}
+
+nav img {
+	filter: invert(100%);
+
+}
+nav ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+    color: #fff;
+}
+
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 60px;
+}
+
+header h2{
+    font-size: 40px;
+    font-weight: 400;
+} 
+
+#ubicacion {
+    padding: 150px;
+}
+
+#ubicacion h2 {
+    font-size: 45px;
+    margin: 60px 0px 20px 0px;
+}
+
+
+#Proxima-Charla {
+    background: #a4452c;
+    padding: 100px;
+    color: white;
+}
+
+#Proxima-Charla .contenedor {
+    width: 800px;
+    margin: auto;
+}
+
+.contenedor img {
+    width: 25%;
+}
+
+.contenedor .texto {
+    width: 70%;
+    margin-left: 4%;
+}
+
+.contenedor img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+i {
+    font-size: 50px;
+    padding: 5px;
+}
+
+
+footer {
+    text-align: center;
+    background: #000f08;
+    color: white;
+    padding: 20px
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+#eventos h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#eventos article {
+    display: inline-block;
+    font-weight: bold;
+    margin: 0 40px;
+}
+
+#eventos h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #000;
+}
+
+#eventos-anteriores {
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+
+#show-eventos h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#show-eventos a {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
+
+
